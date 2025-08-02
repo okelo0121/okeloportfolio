@@ -49,5 +49,6 @@ This project is a modern, responsive personal portfolio built with only **HTML a
 2. Open `index.html` in any modern browser
 3. Resize the browser window to test mobile responsiveness
 4. Click the hamburger icon (☰) on small screens to toggle the menu
+5. or you can find it here " https://okeloportfolio.netlify.app/
 
 ---
